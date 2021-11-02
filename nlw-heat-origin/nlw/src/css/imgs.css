@@ -1,0 +1,10 @@
+/*IMAGES ==================================================================*/
+
+.photo-user {
+    clip-path: circle();
+}
+
+.selo-rocketseat {
+    position: absolute;
+    z-index: 1;
+}
