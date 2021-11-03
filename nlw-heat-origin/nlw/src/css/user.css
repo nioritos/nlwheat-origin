@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500;700&display=swap');
+
+.info-user {
+    font-family: "Roboto";
+
+    text-align: center;
+    width: 18.75rem;
+}
+
+.info-user h1 {
+    color: #E1E1E6;
+}
+
+.info-user a {
+    color: #C4C4CC;
+    font-weight: 400;
+    display: inline-flex;
+}
+
+.info-user a img {
+    margin: 0 0.70rem 0 
+}
+
+.info-user p {
+    width: 18.75rem;
+    color: #C4C4CC;
+    text-align: center;
+}

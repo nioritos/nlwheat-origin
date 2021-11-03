@@ -1,5 +1,9 @@
 /*IMAGES ==================================================================*/
 
+.avatar {
+    margin-bottom: 1.5rem;
+}
+
 .photo-user {
     clip-path: circle();
 }
