@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap');
+
+html,
+      body, .container{
+        height: 100%;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        font-family: "Roboto", sans-serif;
+        background: #212121;
+      }
+
+      .container {
+        background: url(./img/Mobile.png) ;
+        width: 375px;
+        height: 678px;
+      }
+
+      .content {
+        padding: 6.5rem 5rem 5rem 5rem;
+        text-align: center;
+
+      }
+
+      a,p,ul,li, h2 {
+        color: white;
+        text-decoration: none;
+
+        list-style: none;
+        list-style: none;
+      }
+
+
+      
+      .list-sociais, li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0.5rem;
+        padding: 0;
+      }
+            
+      .build-rocketseat {
+        position: absolute;
+        z-index: 1;
+      }
+
+      .avatar-user{
+        position: relative;
+        max-width: 180px;
+        clip-path: circle();
+      }
