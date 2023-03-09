@@ -1,4 +1,4 @@
-#N LWHEAT ORIGIN
+# NLW HEAT ORIGIN
 
 ## DESKTOP
 ![image](https://user-images.githubusercontent.com/77200196/223900840-0a0e9910-da92-4cb7-aaf7-113257a47d76.png)
